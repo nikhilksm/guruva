@@ -1,1 +1,2 @@
 # guruva
+karma,nihilist
